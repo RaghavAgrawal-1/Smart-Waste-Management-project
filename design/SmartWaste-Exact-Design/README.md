@@ -1,0 +1,1 @@
+Initialize SmartWaste design folder
